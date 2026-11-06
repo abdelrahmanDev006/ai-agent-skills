@@ -1,0 +1,1850 @@
+[
+  {
+    "name": "8-bit-orbit-video-template",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/8-bit-orbit-video-template"
+  },
+  {
+    "name": "academy-guide",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/agent-tools-guides/academy-guide"
+  },
+  {
+    "name": "ad-creative",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/ad-creative"
+  },
+  {
+    "name": "after-hours-editorial-template",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/after-hours-editorial-template"
+  },
+  {
+    "name": "agent-browser",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/agent-browser"
+  },
+  {
+    "name": "agent-desktop",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/agent-tools-guides/agent-desktop"
+  },
+  {
+    "name": "agy-customizations",
+    "category": "agent-tools-guides",
+    "source": "antigravity_cli_builtin",
+    "description": ">-",
+    "relative_path": "skills/agent-tools-guides/agy-customizations"
+  },
+  {
+    "name": "ai-music-album",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/ai-music-album"
+  },
+  {
+    "name": "algorithmic-art",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+    "relative_path": "skills/frontend-ui/algorithmic-art"
+  },
+  {
+    "name": "analyze-github-flake",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Expertise in analyzing flake github issues in the flutter/flutter repository. Use when a user wants to analyze the flakiness of a specific link to a flutter github issue.",
+    "relative_path": "skills/engineering-workflow/analyze-github-flake"
+  },
+  {
+    "name": "antigravity_guide",
+    "category": "agent-tools-guides",
+    "source": "antigravity_cli_builtin",
+    "description": "Provides a comprehensive guide, quick reference, and sitemap for Google Antigravity (AGY), including the Antigravity CLI (agy), Antigravity 2.0, Antigravity IDE, Python SDK, slash commands, keybindings, and customizations (skills, rules, MCP, sidecars). Activate this skill when the user asks questions about how to use, configure, or customize Antigravity, AGY, the agy CLI, the Antigravity IDE, or Antigravity 2.0.",
+    "relative_path": "skills/agent-tools-guides/antigravity_guide"
+  },
+  {
+    "name": "apple-hig",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/apple-hig"
+  },
+  {
+    "name": "article-magazine",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Huashu / huashu-md-html-inspired magazine article layout for turning Markdown or notes into a polished long-form HTML essay.",
+    "relative_path": "skills/presentation-docs/article-magazine"
+  },
+  {
+    "name": "artifacts-builder",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/artifacts-builder"
+  },
+  {
+    "name": "ask-matt",
+    "category": "agent-tools-guides",
+    "source": "riwaq_agents",
+    "description": "Ask which skill or flow fits your situation. A router over the skills in this repo.",
+    "relative_path": "skills/agent-tools-guides/ask-matt"
+  },
+  {
+    "name": "automation",
+    "category": "agent-tools-guides",
+    "source": "antigravity_cli_builtin",
+    "description": "Interactive guide to design and create a scheduled background automation. Use this skill when the user wants to create an automated or recurring scheduled task (e.g. \"summarize my emails every morning\", \"every Monday send me a to-do list\"). Also triggered by the /automation slash command.",
+    "relative_path": "skills/agent-tools-guides/automation"
+  },
+  {
+    "name": "banner-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Design banners for social media, ads, website heroes, creative assets, and print. Multiple art direction options with optional generated or supplied visuals. Actions: design, create, generate banner. Platforms: Facebook, Twitter/X, LinkedIn, YouTube, Instagram, Google Display, website hero, print. Styles: minimalist, gradient, bold typography, photo-based, illustrated, geometric, retro, glassmorphism, 3D, neon, duotone, editorial, collage.",
+    "relative_path": "skills/frontend-ui/banner-design"
+  },
+  {
+    "name": "brainstorming",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying behavior, or planning anything new, in software or out of it (a talk, a business, a renovation).",
+    "relative_path": "skills/engineering-workflow/brainstorming"
+  },
+  {
+    "name": "brand",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "Brand voice, visual identity, messaging frameworks, asset management, brand consistency. Activate for branded content, tone of voice, marketing assets, brand compliance, style guides.",
+    "relative_path": "skills/marketing-copywriting/brand"
+  },
+  {
+    "name": "brand-extract",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/brand-extract"
+  },
+  {
+    "name": "brand-guidelines",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+    "relative_path": "skills/marketing-copywriting/brand-guidelines"
+  },
+  {
+    "name": "brandkit",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/brandkit"
+  },
+  {
+    "name": "brutalist-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/brutalist-skill"
+  },
+  {
+    "name": "canvas-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+    "relative_path": "skills/frontend-ui/canvas-design"
+  },
+  {
+    "name": "card-twitter",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Twitter quote or data card designed to pair with a post.",
+    "relative_path": "skills/ai-media-generation/card-twitter"
+  },
+  {
+    "name": "card-xiaohongshu",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Xiaohongshu-style knowledge cards, arranged as a swipeable multi-card carousel.",
+    "relative_path": "skills/ai-media-generation/card-xiaohongshu"
+  },
+  {
+    "name": "caveman",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/caveman"
+  },
+  {
+    "name": "chat-motion-overlay",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Generate configurable chat motion overlays from a transcript or screenshot, including plain bubble scenes, app-style chat containers, optional device frames, preset or uploaded avatars, nickname display rules, and transparent-video-ready Remotion bundles. Use when Codex needs to create reusable short-form chat clips for Douyin, demo videos, story reenactments, social-message proof scenes, or embeddable alpha overlays for Hyperframe and Remotion workflows.",
+    "relative_path": "skills/motion-animation/chat-motion-overlay"
+  },
+  {
+    "name": "claude-api",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|-",
+    "relative_path": "skills/agent-tools-guides/claude-api"
+  },
+  {
+    "name": "claude-code-best-practice",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "Comprehensive collection of agentic coding best practices, tips, multi-agent teams architectures, subagent workflows, MCP integrations, memory management, and prompt engineering patterns. Activate when asking for coding agent workflows, Claude Code tips, agent teams, or advanced agentic setups.",
+    "relative_path": "skills/agent-tools-guides/claude-code-best-practice"
+  },
+  {
+    "name": "claude-handoff",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Hand the current conversation off to a fresh background agent that picks up the work immediately.",
+    "relative_path": "skills/engineering-workflow/claude-handoff"
+  },
+  {
+    "name": "code-review",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Review the changes since a fixed point (commit, branch, tag, or merge-base) along two axes: Standards (does the code follow this repo's documented coding standards?) and Spec (does the code match what the originating issue/spec asked for?). Runs both reviews in parallel sub-agents and reports them side by side. Use when the user wants to review a branch, a PR, work-in-progress changes, or asks to \\\"review since X\\\".",
+    "relative_path": "skills/engineering-workflow/code-review"
+  },
+  {
+    "name": "codebase-design",
+    "category": "frontend-ui",
+    "source": "riwaq_agents",
+    "description": "Shared vocabulary for designing deep modules. Use when the user wants to design or improve a module's interface, find deepening opportunities, decide where a seam goes, make code more testable or AI-navigable, or when another skill needs the deep-module vocabulary.",
+    "relative_path": "skills/frontend-ui/codebase-design"
+  },
+  {
+    "name": "color-expert",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/color-expert"
+  },
+  {
+    "name": "competitive-ads-extractor",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/competitive-ads-extractor"
+  },
+  {
+    "name": "copywriting",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/copywriting"
+  },
+  {
+    "name": "creative-director",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/creative-director"
+  },
+  {
+    "name": "d3-visualization",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/d3-visualization"
+  },
+  {
+    "name": "dart-log-failure-parser",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Parse failures from Dart and Flutter test logs.",
+    "relative_path": "skills/engineering-workflow/dart-log-failure-parser"
+  },
+  {
+    "name": "data-report",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Turns CSV, Excel, or JSON data into a polished visual report page.",
+    "relative_path": "skills/presentation-docs/data-report"
+  },
+  {
+    "name": "deck-guizang-editorial",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Editorial magazine meets e-ink: 10 layouts and 5 palettes (Ink, Indigo Porcelain, Forest Ink, Kraft Paper, Dune).",
+    "relative_path": "skills/presentation-docs/deck-guizang-editorial"
+  },
+  {
+    "name": "deck-open-slide-canvas",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Locked 1920x1080 canvas deck with React component-level free composition, not bound to a fixed template.",
+    "relative_path": "skills/presentation-docs/deck-open-slide-canvas"
+  },
+  {
+    "name": "deck-swiss-international",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "16-column grid, one saturated accent, and 22 locked layouts (Klein Blue, Lemon, Mint, Safety Orange).",
+    "relative_path": "skills/presentation-docs/deck-swiss-international"
+  },
+  {
+    "name": "design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Comprehensive design skill: brand identity, design tokens, UI styling, logo generation (55 styles, Gemini, Atlas Cloud, or MuAPI AI), corporate identity program (50 deliverables, CIP mockups), HTML presentations (Chart.js), banner design (22 styles, social/ads/web/print), icon design (15 styles, SVG, Gemini 3.1 Pro), social photos (HTML→screenshot, multi-platform). Actions: design logo, create CIP, generate mockups, build slides, design banner, generate icon, create social photos, social media images, brand identity, design system. Platforms: Facebook, Twitter, LinkedIn, YouTube, Instagram, Pinterest, TikTok, Threads, Google Ads.",
+    "relative_path": "skills/frontend-ui/design"
+  },
+  {
+    "name": "design-brief",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/design-brief"
+  },
+  {
+    "name": "design-consultation",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/design-consultation"
+  },
+  {
+    "name": "design-md",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/design-md"
+  },
+  {
+    "name": "design-review",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/design-review"
+  },
+  {
+    "name": "design-system",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Token architecture, component specifications, and slide generation. Three-layer tokens (primitive→semantic→component), CSS variables, spacing/typography scales, component specs, strategic slide creation. Use for design tokens, systematic design, brand-compliant presentations.",
+    "relative_path": "skills/frontend-ui/design-system"
+  },
+  {
+    "name": "diagnosing-bugs",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Diagnosis loop for hard bugs and performance regressions. Use when the user says \"diagnose\"/\"debug this\", or reports something broken/throwing/failing/slow.",
+    "relative_path": "skills/engineering-workflow/diagnosing-bugs"
+  },
+  {
+    "name": "diagnosing-superpowers",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when a superpowers session went wrong and your human partner wants to know why — repeated work, ignored plans, stumbles, poor results, a skill that didn't fire, \"it took too long\", \"why is it so expensive\", \"what is it doing\" — or wants to build a bug report for the superpowers maintainers, for the current session or a past one identified by id or path, on any harness.",
+    "relative_path": "skills/engineering-workflow/diagnosing-superpowers"
+  },
+  {
+    "name": "digits-fintech-swiss-template",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/digits-fintech-swiss-template"
+  },
+  {
+    "name": "discernment-nudge",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/agent-tools-guides/discernment-nudge"
+  },
+  {
+    "name": "dispatching-parallel-agents",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+    "relative_path": "skills/engineering-workflow/dispatching-parallel-agents"
+  },
+  {
+    "name": "doc",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/doc"
+  },
+  {
+    "name": "doc-coauthoring",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.",
+    "relative_path": "skills/presentation-docs/doc-coauthoring"
+  },
+  {
+    "name": "doc-kami-parchment",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Warm parchment canvas (#f5f4ed), monochrome ink-blue accent (#1B365D), one serif family, and editorial-grade typography.",
+    "relative_path": "skills/presentation-docs/doc-kami-parchment"
+  },
+  {
+    "name": "docx",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx files) or Word templates (.dotx files). Triggers include: any mention of 'Word doc', 'word document', '.docx', '.dotx', or requests to produce professional documents with formatting like tables of contents, headings, page numbers, or letterheads. Also use when extracting or reorganizing content from .docx or .dotx files, inserting or replacing images in documents, performing find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a 'report', 'memo', 'letter', 'template', or similar deliverable as a Word or .docx file, use this skill. Do NOT use for PDFs, spreadsheets, Google Docs, or general coding tasks unrelated to document generation.",
+    "relative_path": "skills/presentation-docs/docx"
+  },
+  {
+    "name": "domain-modeling",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Build and sharpen a project's domain model. Use when discussing codebase terminology, writing or editing a CONTEXT.md, or recording or editing an ADR.",
+    "relative_path": "skills/engineering-workflow/domain-modeling"
+  },
+  {
+    "name": "domain-name-brainstormer",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/domain-name-brainstormer"
+  },
+  {
+    "name": "ecommerce-image-workflow",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/ecommerce-image-workflow"
+  },
+  {
+    "name": "editorial-burgundy-principles-template",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/editorial-burgundy-principles-template"
+  },
+  {
+    "name": "emil-design-eng",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/emil-design-eng"
+  },
+  {
+    "name": "emilkowalski-motion",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/emilkowalski-motion"
+  },
+  {
+    "name": "enhance-prompt",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/enhance-prompt"
+  },
+  {
+    "name": "executing-plans",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when executing an implementation plan in the current session as the implementer yourself — your human partner chose inline execution, or no subagent tool is available",
+    "relative_path": "skills/engineering-workflow/executing-plans"
+  },
+  {
+    "name": "export-download-debugging",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/engineering-workflow/export-download-debugging"
+  },
+  {
+    "name": "fal-3d",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-3d"
+  },
+  {
+    "name": "fal-generate",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-generate"
+  },
+  {
+    "name": "fal-image-edit",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-image-edit"
+  },
+  {
+    "name": "fal-kling-o3",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-kling-o3"
+  },
+  {
+    "name": "fal-lip-sync",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-lip-sync"
+  },
+  {
+    "name": "fal-realtime",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-realtime"
+  },
+  {
+    "name": "fal-restore",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-restore"
+  },
+  {
+    "name": "fal-train",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-train"
+  },
+  {
+    "name": "fal-tryon",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-tryon"
+  },
+  {
+    "name": "fal-upscale",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-upscale"
+  },
+  {
+    "name": "fal-video-edit",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-video-edit"
+  },
+  {
+    "name": "fal-vision",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/fal-vision"
+  },
+  {
+    "name": "faq-page",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/faq-page"
+  },
+  {
+    "name": "field-notes-editorial-template",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/field-notes-editorial-template"
+  },
+  {
+    "name": "figma-code-connect-components",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-code-connect-components"
+  },
+  {
+    "name": "figma-create-design-system-rules",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-create-design-system-rules"
+  },
+  {
+    "name": "figma-create-new-file",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-create-new-file"
+  },
+  {
+    "name": "figma-generate-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-generate-design"
+  },
+  {
+    "name": "figma-generate-library",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-generate-library"
+  },
+  {
+    "name": "figma-implement-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-implement-design"
+  },
+  {
+    "name": "figma-use",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/figma-use"
+  },
+  {
+    "name": "find-release",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "A skill to find the lowest Dart and Flutter release containing a given commit. Use this skill whenever users ask about when a commit landed in Flutter or Dart releases, inquire about release versions for specific SHAs, or want to know if a commit is included in stable, beta, or dev channels for Flutter/Dart projects.",
+    "relative_path": "skills/engineering-workflow/find-release"
+  },
+  {
+    "name": "finishing-a-development-branch",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work",
+    "relative_path": "skills/engineering-workflow/finishing-a-development-branch"
+  },
+  {
+    "name": "flutter-animating-apps",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/engineering-workflow/flutter-animating-apps"
+  },
+  {
+    "name": "flutter-cherry-pick",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "How to land a formal cherry-pick of a merged PR for the flutter/flutter repo stable or beta channel. Only use for flutter/flutter landed pull requests. Only use when the cherry pick request is into \"stable\", \"beta\" or a branch that has the format with flutter-<major>.<minor>-candidate.0.",
+    "relative_path": "skills/engineering-workflow/flutter-cherry-pick"
+  },
+  {
+    "name": "flutter-pr-checks-finder",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Find failing checks on a Flutter PR and locate the corresponding LUCI log URLs.",
+    "relative_path": "skills/engineering-workflow/flutter-pr-checks-finder"
+  },
+  {
+    "name": "frame-data-chart-nyt",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "NYT-newsroom typography, staggered reveal animation, and editorial-grade charts (line, bar, or range band).",
+    "relative_path": "skills/motion-animation/frame-data-chart-nyt"
+  },
+  {
+    "name": "frame-flowchart-sticky",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "SVG curve connectors, sticky-note nodes, and cursor interaction with a whiteboard-brainstorm feel.",
+    "relative_path": "skills/motion-animation/frame-flowchart-sticky"
+  },
+  {
+    "name": "frame-glitch-title",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Digital glitch, chromatic offset, and data-corruption title frame for video transitions or cyberpunk heroes.",
+    "relative_path": "skills/motion-animation/frame-glitch-title"
+  },
+  {
+    "name": "frame-light-leak-cinema",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Film light leaks, grain, 16:9 letterbox, and large serif type for cinematic openings or chapter cards.",
+    "relative_path": "skills/motion-animation/frame-light-leak-cinema"
+  },
+  {
+    "name": "frame-liquid-bg-hero",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "WebGL-style fluid displacement background with a quote overlay, suited to video intros, landing heroes, or posters.",
+    "relative_path": "skills/motion-animation/frame-liquid-bg-hero"
+  },
+  {
+    "name": "frame-logo-outro",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Segmented logo assembly, glow bloom, and tagline reveal for video outros or brand closing frames.",
+    "relative_path": "skills/motion-animation/frame-logo-outro"
+  },
+  {
+    "name": "frame-macos-notification",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Realistic macOS notification banner with app icon, title, and body, suited to video overlays or product teasers.",
+    "relative_path": "skills/motion-animation/frame-macos-notification"
+  },
+  {
+    "name": "frontend-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.",
+    "relative_path": "skills/frontend-ui/frontend-design"
+  },
+  {
+    "name": "frontend-dev",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/frontend-dev"
+  },
+  {
+    "name": "frontend-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/frontend-skill"
+  },
+  {
+    "name": "frontend-slides",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/frontend-slides"
+  },
+  {
+    "name": "full-page-screenshot",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/full-page-screenshot"
+  },
+  {
+    "name": "generative_ui",
+    "category": "frontend-ui",
+    "source": "antigravity_cli_builtin",
+    "description": "How to render rich interactive HTML widgets inline in the chat or as standalone artifacts. Use this skill when you want to show the user diagrams, data visualizations, interactive controls, educational walkthroughs, or any rich visual content beyond plain text and markdown.",
+    "relative_path": "skills/frontend-ui/generative_ui"
+  },
+  {
+    "name": "gif-sticker-maker",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/gif-sticker-maker"
+  },
+  {
+    "name": "git-guardrails-claude-code",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Set up Claude Code hooks to block dangerous git commands (push, reset --hard, clean, branch -D, etc.) before they execute. Use when user wants to prevent destructive git operations, add git safety hooks, or block git push/reset in Claude Code.",
+    "relative_path": "skills/engineering-workflow/git-guardrails-claude-code"
+  },
+  {
+    "name": "gpt-tasteskill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/gpt-tasteskill"
+  },
+  {
+    "name": "grill-me",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "A relentless interview to sharpen a plan or design.",
+    "relative_path": "skills/engineering-workflow/grill-me"
+  },
+  {
+    "name": "grill-with-docs",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+    "relative_path": "skills/engineering-workflow/grill-with-docs"
+  },
+  {
+    "name": "grilling",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Grill the user relentlessly about a plan, decision, or idea. Use when the user wants to stress-test their thinking, or uses any 'grill' trigger phrases.",
+    "relative_path": "skills/engineering-workflow/grilling"
+  },
+  {
+    "name": "gsap-core",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-core"
+  },
+  {
+    "name": "gsap-frameworks",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-frameworks"
+  },
+  {
+    "name": "gsap-performance",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-performance"
+  },
+  {
+    "name": "gsap-plugins",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-plugins"
+  },
+  {
+    "name": "gsap-react",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-react"
+  },
+  {
+    "name": "gsap-scrolltrigger",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-scrolltrigger"
+  },
+  {
+    "name": "gsap-timeline",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-timeline"
+  },
+  {
+    "name": "gsap-utils",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/gsap-utils"
+  },
+  {
+    "name": "hand-drawn-diagrams",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/hand-drawn-diagrams"
+  },
+  {
+    "name": "handoff",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Compact the current conversation into a handoff document for another agent to pick up.",
+    "relative_path": "skills/engineering-workflow/handoff"
+  },
+  {
+    "name": "hatch-pet",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "Create, repair, validate, preview, and package Codex-compatible animated pet spritesheets from character art, screenshots, generated images, or visual references. Use when a user wants to hatch a Codex pet, create a custom animated pet, or build a built-in pet asset with an 8x9 atlas, transparent unused cells, row-by-row animation prompts, QA contact sheets, preview videos, and pet.json packaging. This skill composes the installed $imagegen system skill for visual generation and uses bundled scripts for deterministic spritesheet assembly.",
+    "relative_path": "skills/agent-tools-guides/hatch-pet"
+  },
+  {
+    "name": "html-ppt-retro-quarterly-review",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/html-ppt-retro-quarterly-review"
+  },
+  {
+    "name": "i-have-adhd",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Shape output for a reader with ADHD: lead with the next action, number multi-step work, restate state across turns, suppress tangents, give specific time estimates, make wins visible. Invoke with /i-have-adhd; stays on until \"stop adhd mode\".",
+    "relative_path": "skills/engineering-workflow/i-have-adhd"
+  },
+  {
+    "name": "image-enhancer",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/image-enhancer"
+  },
+  {
+    "name": "image-to-code-skill",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/image-to-code-skill"
+  },
+  {
+    "name": "imagegen",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/imagegen"
+  },
+  {
+    "name": "imagegen-frontend-mobile",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/imagegen-frontend-mobile"
+  },
+  {
+    "name": "imagegen-frontend-web",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/imagegen-frontend-web"
+  },
+  {
+    "name": "imagen",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/imagen"
+  },
+  {
+    "name": "impeccable-design-polish",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/impeccable-design-polish"
+  },
+  {
+    "name": "implement",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Implement a piece of work based on a spec or set of tickets.",
+    "relative_path": "skills/engineering-workflow/implement"
+  },
+  {
+    "name": "implement-spec",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Implement a specification in code.",
+    "relative_path": "skills/engineering-workflow/implement-spec"
+  },
+  {
+    "name": "improve-codebase-architecture",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Scan a codebase for deepening opportunities, present them as a visual HTML report, then grill through whichever one you pick.",
+    "relative_path": "skills/engineering-workflow/improve-codebase-architecture"
+  },
+  {
+    "name": "internal-comms",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+    "relative_path": "skills/marketing-copywriting/internal-comms"
+  },
+  {
+    "name": "library-curator",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/library-curator"
+  },
+  {
+    "name": "login-flow",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Mobile login and authentication flow screens",
+    "relative_path": "skills/frontend-ui/login-flow"
+  },
+  {
+    "name": "loop-me",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Grill me about specs for the workflows I want to build, within this workspace.",
+    "relative_path": "skills/engineering-workflow/loop-me"
+  },
+  {
+    "name": "marketing-psychology",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/marketing-psychology"
+  },
+  {
+    "name": "mcp-builder",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+    "relative_path": "skills/engineering-workflow/mcp-builder"
+  },
+  {
+    "name": "migrate-to-shoehorn",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Migrate test files from `as` type assertions to @total-typescript/shoehorn. Use when user mentions shoehorn, wants to replace `as` in tests, or needs partial test data.",
+    "relative_path": "skills/engineering-workflow/migrate-to-shoehorn"
+  },
+  {
+    "name": "migrate-workflows",
+    "category": "engineering-workflow",
+    "source": "antigravity_cli_builtin",
+    "description": "Automatically migrate legacy workflows to modern skills across global and workspace configurations. Scans for existing workflows, creates target SKILL.md files, and safely archives old workflow files.",
+    "relative_path": "skills/engineering-workflow/migrate-workflows"
+  },
+  {
+    "name": "minimalist-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/minimalist-skill"
+  },
+  {
+    "name": "minimax-docx",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/minimax-docx"
+  },
+  {
+    "name": "minimax-pdf",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/minimax-pdf"
+  },
+  {
+    "name": "mockup-device-3d",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Static iPhone and MacBook 3D-style showcase with real HTML embedded on screens, glass-lens refraction, and 360-degree turntable composition.",
+    "relative_path": "skills/ai-media-generation/mockup-device-3d"
+  },
+  {
+    "name": "nanobanana-ppt",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/nanobanana-ppt"
+  },
+  {
+    "name": "od-next-media-inputs",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/od-next-media-inputs"
+  },
+  {
+    "name": "output-skill",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/engineering-workflow/output-skill"
+  },
+  {
+    "name": "paywall-upgrade-cro",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/paywall-upgrade-cro"
+  },
+  {
+    "name": "pdf",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+    "relative_path": "skills/presentation-docs/pdf"
+  },
+  {
+    "name": "permissioned-github",
+    "category": "engineering-workflow",
+    "source": "antigravity_cli_builtin",
+    "description": "Guidelines for interacting with GitHub and request permissions from the user when commands fail due to restrictions in the agent environment.",
+    "relative_path": "skills/engineering-workflow/permissioned-github"
+  },
+  {
+    "name": "pixelbin-media",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/pixelbin-media"
+  },
+  {
+    "name": "plan-design-review",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/plan-design-review"
+  },
+  {
+    "name": "platform-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/platform-design"
+  },
+  {
+    "name": "plugin",
+    "category": "engineering-workflow",
+    "source": "antigravity_cli_builtin",
+    "description": "How to manage and create plugins — namespaced bundles of skills, agents, rules, MCP servers and hooks that install, enable and disable as a single unit. Use this skill when the user wants to enable, disable, install or uninstall a plugin, when they want to create a new plugin, or when a new customization should be packaged into a plugin rather than left loose. Also triggered by the /plugin slash command. Don't use for the underlying customization system itself — discovery roots, loading priority, or authoring a standalone skill, agent, rule, hook or MCP server outside a plugin; see the customizations guide skill for those.",
+    "relative_path": "skills/engineering-workflow/plugin"
+  },
+  {
+    "name": "ponytail",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail"
+  },
+  {
+    "name": "ponytail-audit",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail-audit"
+  },
+  {
+    "name": "ponytail-debt",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail-debt"
+  },
+  {
+    "name": "ponytail-gain",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail-gain"
+  },
+  {
+    "name": "ponytail-help",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail-help"
+  },
+  {
+    "name": "ponytail-review",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/ponytail-review"
+  },
+  {
+    "name": "poster-hero",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Vertical poster or Moments-style share image with strong visual impact.",
+    "relative_path": "skills/ai-media-generation/poster-hero"
+  },
+  {
+    "name": "ppt-keynote",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Apple Keynote-quality slides, one card per screen, with keyboard left/right navigation.",
+    "relative_path": "skills/presentation-docs/ppt-keynote"
+  },
+  {
+    "name": "ppt-master",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/presentation-docs/ppt-master"
+  },
+  {
+    "name": "pptx",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email or summary); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates (.potx), layouts, speaker notes, or comments. Trigger whenever the user mentions \\\"deck,\\\" \\\"slides,\\\" \\\"presentation,\\\" or references a .pptx or .potx filename, regardless of what they plan to do with the content afterward. If a .pptx or .potx file needs to be opened, created, or touched, use this skill.",
+    "relative_path": "skills/presentation-docs/pptx"
+  },
+  {
+    "name": "pptx-generator",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/pptx-generator"
+  },
+  {
+    "name": "pptx-html-fidelity-audit",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Audit a python-pptx export against its source HTML deck, identify layout/content drift (footer overflow, cropped content, missing italic/em, lost styling, off-rhythm spacing), and re-export with strict footer-rail + cursor-flow layout discipline. Use this skill whenever the user has a .pptx that was generated from an HTML slide deck and asks to compare/audit/verify/fix the export — including phrases like \"compare ppt with html\", \"fidelity audit\", \"fix the pptx\", \"ppt is cut off\", \"footer overlap\", \"italic missing in pptx\", \"re-export the deck\", \"pptx-html-fidelity-audit\", or any case where a python-pptx → HTML round-trip needs verification or repair. Also trigger when the user shows you a deck.html and a deck.pptx side by side and is debugging visual differences.",
+    "relative_path": "skills/presentation-docs/pptx-html-fidelity-audit"
+  },
+  {
+    "name": "pr-feedback-quality-gate",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/engineering-workflow/pr-feedback-quality-gate"
+  },
+  {
+    "name": "presentation-structure",
+    "category": "presentation-docs",
+    "source": "riwaq_agents",
+    "description": "Knowledge about the presentation slide format, weight system, navigation, and section structure",
+    "relative_path": "skills/presentation-docs/presentation-structure"
+  },
+  {
+    "name": "presentation-styling",
+    "category": "presentation-docs",
+    "source": "riwaq_agents",
+    "description": "Knowledge about CSS classes, component patterns, and syntax highlighting in the presentation",
+    "relative_path": "skills/presentation-docs/presentation-styling"
+  },
+  {
+    "name": "prototype",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Build a throwaway prototype to answer a design question. Use when the user wants to sanity-check whether a state model or logic feels right, or explore what a UI should look like.",
+    "relative_path": "skills/engineering-workflow/prototype"
+  },
+  {
+    "name": "rebuilding-flutter-tool",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Rebuilds the Flutter tool and CLI. Use when a user asks to compile, update, regenerate, or rebuild the Flutter tool or CLI.",
+    "relative_path": "skills/engineering-workflow/rebuilding-flutter-tool"
+  },
+  {
+    "name": "receiving-code-review",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+    "relative_path": "skills/engineering-workflow/receiving-code-review"
+  },
+  {
+    "name": "redesign-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/redesign-skill"
+  },
+  {
+    "name": "reference-design-contract",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/reference-design-contract"
+  },
+  {
+    "name": "release-notes-one-pager",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/release-notes-one-pager"
+  },
+  {
+    "name": "remotion",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/remotion"
+  },
+  {
+    "name": "replicate",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/replicate"
+  },
+  {
+    "name": "requesting-code-review",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+    "relative_path": "skills/engineering-workflow/requesting-code-review"
+  },
+  {
+    "name": "research",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Investigate a question against high-trust primary sources and capture the findings as a Markdown file in the repo. Use when the user wants a topic researched, docs or API facts gathered, or reading legwork delegated to a background agent.",
+    "relative_path": "skills/engineering-workflow/research"
+  },
+  {
+    "name": "research-decision-room",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/presentation-docs/research-decision-room"
+  },
+  {
+    "name": "resolving-merge-conflicts",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Use when you need to resolve an in-progress git merge/rebase conflict.",
+    "relative_path": "skills/engineering-workflow/resolving-merge-conflicts"
+  },
+  {
+    "name": "resume-modern",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Modern minimal resume, single A4 page, ready for print or PDF export.",
+    "relative_path": "skills/presentation-docs/resume-modern"
+  },
+  {
+    "name": "retro",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Conduct a retrospective on a coding session.",
+    "relative_path": "skills/engineering-workflow/retro"
+  },
+  {
+    "name": "reverse-engineer-anything",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "Reverse engineer native, managed, Electron/JavaScript, packaged, firmware, and browser targets with REA. Use shipped-artifact or requested runtime evidence to explain features, compare versions, decompile code, or guide a reconstruction. Skip REA for ordinary source-repository architecture analysis.",
+    "relative_path": "skills/engineering-workflow/reverse-engineer-anything"
+  },
+  {
+    "name": "review-animations",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/review-animations"
+  },
+  {
+    "name": "run-workflow",
+    "category": "engineering-workflow",
+    "source": "antigravity_cli_builtin",
+    "description": ">-",
+    "relative_path": "skills/engineering-workflow/run-workflow"
+  },
+  {
+    "name": "scaffold-exercises",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Create exercise directory structures with sections, problems, solutions, and explainers that pass linting. Use when user wants to scaffold exercises, create exercise stubs, or set up a new course section.",
+    "relative_path": "skills/engineering-workflow/scaffold-exercises"
+  },
+  {
+    "name": "screenshot",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/agent-tools-guides/screenshot"
+  },
+  {
+    "name": "screenshots-marketing",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/screenshots-marketing"
+  },
+  {
+    "name": "setup-matt-pocock-skills",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Configure this repo for the engineering skills: set up its issue tracker, triage label vocabulary, and domain doc layout. Run once before first use of the other engineering skills.",
+    "relative_path": "skills/engineering-workflow/setup-matt-pocock-skills"
+  },
+  {
+    "name": "setup-pre-commit",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Set up Husky pre-commit hooks with lint-staged (Prettier), type checking, and tests in the current repo. Use when user wants to add pre-commit hooks, set up Husky, configure lint-staged, or add commit-time formatting/typechecking/testing.",
+    "relative_path": "skills/engineering-workflow/setup-pre-commit"
+  },
+  {
+    "name": "setup-ts-deep-modules",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Wire dependency-cruiser into a TypeScript repo so each package is a deep module, with implementation hidden in subfolders and reachable only through its entry-point files. User-invoked.",
+    "relative_path": "skills/engineering-workflow/setup-ts-deep-modules"
+  },
+  {
+    "name": "shadcn-ui",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/shadcn-ui"
+  },
+  {
+    "name": "shader-dev",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/shader-dev"
+  },
+  {
+    "name": "shepherd-prs",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": ">",
+    "relative_path": "skills/engineering-workflow/shepherd-prs"
+  },
+  {
+    "name": "skill-creator",
+    "category": "agent-tools-guides",
+    "source": "config_skills",
+    "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+    "relative_path": "skills/agent-tools-guides/skill-creator"
+  },
+  {
+    "name": "slack-gif-creator",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.",
+    "relative_path": "skills/ai-media-generation/slack-gif-creator"
+  },
+  {
+    "name": "slides",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Create strategic HTML presentations with Chart.js, design tokens, responsive layouts, copywriting formulas, and contextual slide strategies.",
+    "relative_path": "skills/presentation-docs/slides"
+  },
+  {
+    "name": "social-reddit-card",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Realistic Reddit post card with vote rail and comment count, suited to video overlays or story sharing.",
+    "relative_path": "skills/ai-media-generation/social-reddit-card"
+  },
+  {
+    "name": "social-spotify-card",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Spotify Now Playing-style card with album art, progress bar, and playback controls, suited to video overlays or personal homepages.",
+    "relative_path": "skills/ai-media-generation/social-spotify-card"
+  },
+  {
+    "name": "social-x-post-card",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "Realistic X post card with engagement metrics (likes, reposts, views), suited to video overlays or shareable image cards.",
+    "relative_path": "skills/ai-media-generation/social-x-post-card"
+  },
+  {
+    "name": "soft-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/soft-skill"
+  },
+  {
+    "name": "sora",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/sora"
+  },
+  {
+    "name": "speech",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/speech"
+  },
+  {
+    "name": "stitch-loop",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/stitch-loop"
+  },
+  {
+    "name": "stitch-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/stitch-skill"
+  },
+  {
+    "name": "subagent-driven-development",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when executing implementation plans with independent tasks in the current session",
+    "relative_path": "skills/engineering-workflow/subagent-driven-development"
+  },
+  {
+    "name": "swiftui-design",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/swiftui-design"
+  },
+  {
+    "name": "swiss-creative-mode-template",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/swiss-creative-mode-template"
+  },
+  {
+    "name": "swiss-user-research-video-template",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/swiss-user-research-video-template"
+  },
+  {
+    "name": "systematic-debugging",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "relative_path": "skills/engineering-workflow/systematic-debugging"
+  },
+  {
+    "name": "taste-skill",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/taste-skill"
+  },
+  {
+    "name": "taste-skill-v1",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/taste-skill-v1"
+  },
+  {
+    "name": "tdd",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Test-driven development. Use when the user wants to build features or fix bugs test-first, mentions \"red-green-refactor\", or wants integration tests.",
+    "relative_path": "skills/engineering-workflow/tdd"
+  },
+  {
+    "name": "teach",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Teach the user a new skill or concept, within this workspace.",
+    "relative_path": "skills/engineering-workflow/teach"
+  },
+  {
+    "name": "test-driven-development",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "relative_path": "skills/engineering-workflow/test-driven-development"
+  },
+  {
+    "name": "theme-factory",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+    "relative_path": "skills/frontend-ui/theme-factory"
+  },
+  {
+    "name": "threejs",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/threejs"
+  },
+  {
+    "name": "time-skill",
+    "category": "agent-tools-guides",
+    "source": "riwaq_agents",
+    "description": "Display the current time in Pakistan Standard Time (PKT, UTC+5). Use when the user asks for the current time, Pakistan time, or PKT.",
+    "relative_path": "skills/agent-tools-guides/time-skill"
+  },
+  {
+    "name": "to-questionnaire",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Turn a decision you can't fully answer into a questionnaire for someone else to fill in.",
+    "relative_path": "skills/engineering-workflow/to-questionnaire"
+  },
+  {
+    "name": "to-spec",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Turn the current conversation into a spec and publish it to the project issue tracker: no interview, just synthesis of what you've already discussed.",
+    "relative_path": "skills/engineering-workflow/to-spec"
+  },
+  {
+    "name": "to-tickets",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Break a plan, spec, or the current conversation into a set of tracer-bullet tickets, each declaring its blocking edges, published to the configured tracker (edges as text in one file per ticket locally, or native blocking links on a real tracker).",
+    "relative_path": "skills/engineering-workflow/to-tickets"
+  },
+  {
+    "name": "triage",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Move issues and external PRs through a state machine of triage roles, categorise, verify, grill if needed, and write agent-ready briefs.",
+    "relative_path": "skills/engineering-workflow/triage"
+  },
+  {
+    "name": "ui-plugin-navigation",
+    "category": "frontend-ui",
+    "source": "antigravity_cli_builtin",
+    "description": "Discover UI plugin panels relevant to the current task and surface a one-click pill in chat to open (toggle) them in the side pane. Use when a running UI plugin's panel would help with what the user is doing, or right after the user enables a new UI plugin pane and a shortcut to open it is handy.",
+    "relative_path": "skills/frontend-ui/ui-plugin-navigation"
+  },
+  {
+    "name": "ui-skills",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/ui-skills"
+  },
+  {
+    "name": "ui-styling",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user interfaces, implementing design systems, creating responsive layouts, adding accessible components (dialogs, dropdowns, forms, tables), customizing themes and colors, implementing dark mode, generating visual designs and posters, or establishing consistent styling patterns across applications.",
+    "relative_path": "skills/frontend-ui/ui-styling"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "UI/UX design intelligence for web, mobile, and desktop. This skill should be used when designing, building, reviewing, or fixing interfaces, including pages, components, design systems, accessibility, interaction, responsive layout, typography, color, charts, and stack-specific UI implementation. Searchable local data: 79 searchable styles (50 active), 192 product palettes and reasoning profiles, 74 font pairings, 119 UX guidelines, 105 icons, 17 GSAP presets, 25 chart types, and 22 stacks.",
+    "relative_path": "skills/frontend-ui/ui-ux-pro-max"
+  },
+  {
+    "name": "updating-android-sdk",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Upgrades Flutter's Android SDK dependency to a new Android API version (or preview/canary release) in packages.txt, verifies CIPD tag uniqueness, and packages/uploads the binaries using create_cipd_packages.sh across macOS, Linux, and Windows. Use whenever a user wants to pick up a new version of Android or upload Android SDK packages to CIPD.",
+    "relative_path": "skills/engineering-workflow/updating-android-sdk"
+  },
+  {
+    "name": "upgrade-browser",
+    "category": "engineering-workflow",
+    "source": "flutter",
+    "description": "Upgrade browser versions (Chrome or Firefox) in the Flutter Web Engine and/or Framework tests. Use when asked to roll or upgrade Chrome or Firefox to a newer version.",
+    "relative_path": "skills/engineering-workflow/upgrade-browser"
+  },
+  {
+    "name": "using-git-worktrees",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - ensures an isolated workspace exists via native tools or git worktree fallback",
+    "relative_path": "skills/engineering-workflow/using-git-worktrees"
+  },
+  {
+    "name": "using-superpowers",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring skill invocation before ANY response including clarifying questions",
+    "relative_path": "skills/engineering-workflow/using-superpowers"
+  },
+  {
+    "name": "venice-audio-music",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/venice-audio-music"
+  },
+  {
+    "name": "venice-audio-speech",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/venice-audio-speech"
+  },
+  {
+    "name": "venice-image-edit",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/venice-image-edit"
+  },
+  {
+    "name": "venice-image-generate",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/venice-image-generate"
+  },
+  {
+    "name": "venice-video",
+    "category": "ai-media-generation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/ai-media-generation/venice-video"
+  },
+  {
+    "name": "verification-before-completion",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always",
+    "relative_path": "skills/engineering-workflow/verification-before-completion"
+  },
+  {
+    "name": "vfx-text-cursor",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Cursor light trail, chromatic rays, and directional flares for word-by-word quote reveals in video intros.",
+    "relative_path": "skills/motion-animation/vfx-text-cursor"
+  },
+  {
+    "name": "vibe-to-agentic-framework",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "The conceptual framework behind the presentation — what \"Vibe Coding to Agentic Engineering\" means, why the journey is structured the way it is, and how every slide fits the narrative arc",
+    "relative_path": "skills/engineering-workflow/vibe-to-agentic-framework"
+  },
+  {
+    "name": "video-downloader",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/video-downloader"
+  },
+  {
+    "name": "video-hyperframes",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "Hyperframes / Remotion-compatible continuous frame animation with autoplay support.",
+    "relative_path": "skills/motion-animation/video-hyperframes"
+  },
+  {
+    "name": "wait-what",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Stop. That last message did not land: re-pitch it.",
+    "relative_path": "skills/engineering-workflow/wait-what"
+  },
+  {
+    "name": "wayfinder",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Plan a huge chunk of work (more than one agent session can hold) as a shared map of decision tickets on your issue tracker, and resolve them one at a time until the way to the destination is clear.",
+    "relative_path": "skills/engineering-workflow/wayfinder"
+  },
+  {
+    "name": "weather-fetcher",
+    "category": "agent-tools-guides",
+    "source": "riwaq_agents",
+    "description": "Instructions for fetching current weather temperature data for Dubai, UAE from Open-Meteo API",
+    "relative_path": "skills/agent-tools-guides/weather-fetcher"
+  },
+  {
+    "name": "weather-svg-creator",
+    "category": "agent-tools-guides",
+    "source": "riwaq_agents",
+    "description": "Creates an SVG weather card showing the current temperature for Dubai. Writes the SVG to orchestration-workflow/weather.svg and updates orchestration-workflow/output.md.",
+    "relative_path": "skills/agent-tools-guides/weather-svg-creator"
+  },
+  {
+    "name": "web-artifacts-builder",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+    "relative_path": "skills/frontend-ui/web-artifacts-builder"
+  },
+  {
+    "name": "web-clone",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": ">",
+    "relative_path": "skills/frontend-ui/web-clone"
+  },
+  {
+    "name": "web-design-guidelines",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/web-design-guidelines"
+  },
+  {
+    "name": "webapp-testing",
+    "category": "engineering-workflow",
+    "source": "config_skills",
+    "description": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.",
+    "relative_path": "skills/engineering-workflow/webapp-testing"
+  },
+  {
+    "name": "weread-year-in-review-video-template",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/weread-year-in-review-video-template"
+  },
+  {
+    "name": "wizard",
+    "category": "engineering-workflow",
+    "source": "riwaq_agents",
+    "description": "Generate an interactive bash wizard that walks a human through steps only they can perform. Use when provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off migration or cutover. Don't invoke this for steps the agent can perform itself.",
+    "relative_path": "skills/engineering-workflow/wizard"
+  },
+  {
+    "name": "wpds",
+    "category": "frontend-ui",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/frontend-ui/wpds"
+  },
+  {
+    "name": "writing-beats",
+    "category": "marketing-copywriting",
+    "source": "riwaq_agents",
+    "description": "Writing, exploit; assemble raw material into a journey of beats, grounding each term before a beat leans on it.",
+    "relative_path": "skills/marketing-copywriting/writing-beats"
+  },
+  {
+    "name": "writing-for-agents",
+    "category": "marketing-copywriting",
+    "source": "riwaq_agents",
+    "description": "Writing documents for agents. Use when creating or editing skills, or modifying AGENTS.md or CLAUDE.md.",
+    "relative_path": "skills/marketing-copywriting/writing-for-agents"
+  },
+  {
+    "name": "writing-fragments",
+    "category": "marketing-copywriting",
+    "source": "riwaq_agents",
+    "description": "Writing, explore: mine raw fragments, no structure yet.",
+    "relative_path": "skills/marketing-copywriting/writing-fragments"
+  },
+  {
+    "name": "writing-guidelines",
+    "category": "marketing-copywriting",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/marketing-copywriting/writing-guidelines"
+  },
+  {
+    "name": "writing-plans",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+    "relative_path": "skills/engineering-workflow/writing-plans"
+  },
+  {
+    "name": "writing-shape",
+    "category": "marketing-copywriting",
+    "source": "riwaq_agents",
+    "description": "Writing, exploit: shape raw material into an article, paragraph by paragraph.",
+    "relative_path": "skills/marketing-copywriting/writing-shape"
+  },
+  {
+    "name": "writing-skills",
+    "category": "engineering-workflow",
+    "source": "superpowers_v7",
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+    "relative_path": "skills/engineering-workflow/writing-skills"
+  },
+  {
+    "name": "xlsx",
+    "category": "presentation-docs",
+    "source": "config_skills",
+    "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \\\"the xlsx in my downloads\\\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
+    "relative_path": "skills/presentation-docs/xlsx"
+  },
+  {
+    "name": "youtube-clipper",
+    "category": "motion-animation",
+    "source": "config_skills",
+    "description": "|",
+    "relative_path": "skills/motion-animation/youtube-clipper"
+  }
+]
