@@ -338,6 +338,7 @@ Copy the desired category or skill folder directly into your harness directory:
 | **`gsap-scrolltrigger`** | - | [View](skills/motion-animation/gsap-scrolltrigger/SKILL.md) |
 | **`gsap-timeline`** | - | [View](skills/motion-animation/gsap-timeline/SKILL.md) |
 | **`gsap-utils`** | - | [View](skills/motion-animation/gsap-utils/SKILL.md) |
+| **`prompt-motion`** | Code-based AI motion graphics and video templates inspired by prompt-motion.com (SaaS launch, kinetic typography, bento, 120 BPM beat grid, spring physics). | [View](skills/motion-animation/prompt-motion/SKILL.md) |
 | **`remotion`** | - | [View](skills/motion-animation/remotion/SKILL.md) |
 | **`review-animations`** | - | [View](skills/motion-animation/review-animations/SKILL.md) |
 | **`swiss-creative-mode-template`** | - | [View](skills/motion-animation/swiss-creative-mode-template/SKILL.md) |
